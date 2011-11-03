@@ -11,6 +11,7 @@ public class BrowseFS implements JavaFS
     public BrowseFS()
     {
 	//WebDriver driver = new FirefoxDriver();
+	//
     }
 
     public int getattr_pre(String path, Stat buf)
